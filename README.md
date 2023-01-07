@@ -1,2 +1,2 @@
-# Verifica-a-For-a-de-Senha
+# Verifica-a-Força-da-Senha
 Verifica a força da senha
